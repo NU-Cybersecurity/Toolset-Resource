@@ -2,9 +2,9 @@
 ## Table of Contents
 
 
-- [Introduction] (#intro)
-- [Free Virtual Environments] (#virtual)
-- [Linux Operating Systems] (#Linux)
+[Introduction] (#intro)
+[Free Virtual Environments] (#virtual)
+[Linux Operating Systems] (#Linux)
 
 
 
