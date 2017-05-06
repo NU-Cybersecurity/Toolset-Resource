@@ -2,8 +2,9 @@
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Introduction] (intro)
-- [Free Virtual Environments] (virtual)
+- [Introduction] (#intro)
+- [Free Virtual Environments] (#virtual)
+- [Linux Operating Systems] (#Linux)
 
 <!-- /MarkdownTOC -->
 
@@ -17,5 +18,10 @@ In addition to the tools on VMs within the NU-ISLE environment, there are other 
 As a supplemental resource to the NU-ISLE environment and other commercial CSIA labs that will be used for most courses, the following VM tools may be used, which allows local system setup and configuration for students to practice with toolsets.  NOTE – most CSIA course assignments require the use of the either the NU-ISLE environment, where instructors have access to login and check the student’s work on a particular VM, or a hosted lab environment, where student activity is reported to the instructor; therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools.
 
 [VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html)
+
+## Linux Operating Systems <a name="Linux"></a>
+
+[Ubuntu](http://www.ubuntu.com/)
+
 
 
