@@ -1,12 +1,12 @@
 # Toolset-Resource
 ## Table of Contents
 
-<!-- MarkdownTOC depth=4 -->
+
 - [Introduction] (#intro)
 - [Free Virtual Environments] (#virtual)
 - [Linux Operating Systems] (#Linux)
 
-<!-- /MarkdownTOC -->
+
 
 ## Introduction <a name="intro"></a>
 There are several software tools used over the course of the CSIA Program within the NU-ISLE virtual environment, for the lab work that demonstrates (hands-on) the principles being taught in class.  Not all of the tools are used in each class.  The purpose of this guide is to provide students and instructors with resources and references to obtain more information about some of the specific tools, which are not directly taught as part of the CSIA course materials.  Students are expected to gain some experience and skill on their own in using these tools, by taking advantage of the NU-ISLE environment (while it is still available) when it used for a particular class; or by using their own virtual machines, discussed in section 2.0, below.
@@ -21,7 +21,7 @@ As a supplemental resource to the NU-ISLE environment and other commercial CSIA 
 
 ## Linux Operating Systems <a name="Linux"></a>
 
-[Ubuntu](http://www.ubuntu.com/)
+[Ubuntu](http://www.ubuntu.com/) 
 
 
 
