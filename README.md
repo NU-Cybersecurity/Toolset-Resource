@@ -3,8 +3,8 @@
 
 
 [Introduction] (#intro)
-[Free Virtual Environments] (#virtual)
-[Linux Operating Systems] (#Linux)
+[Free Virtual Environments](#virtual)
+[Linux Operating Systems](#Linux)
 
 
 
