@@ -2,7 +2,7 @@
 ## Table of Contents
 
 
-[Introduction] (#intro)
+[Introduction](#intro)
 [Free Virtual Environments](#virtual)
 [Linux Operating Systems](#Linux)
 
@@ -22,6 +22,13 @@ As a supplemental resource to the NU-ISLE environment and other commercial CSIA 
 ## Linux Operating Systems <a name="Linux"></a>
 
 [Ubuntu](http://www.ubuntu.com/) 
+
+###Ubuntu Documentation
+
+[Ubuntu Help](https://help.ubuntu.com/)
+[Ubuntu Wiki](https://wiki.ubuntu.com/)
+
+
 
 
 
