@@ -5,7 +5,7 @@
 [Introduction](#intro)
 [Free Virtual Environments](#virtual)
 [Linux Operating Systems](#Linux)
-
+[Network Security Monitoring & Intrusion Detection System Tools](#nsm)
 
 
 ## Introduction <a name="intro"></a>
@@ -57,20 +57,26 @@ current directory (in this case, “~” indicates the student’s Home director
  [student@fedora ~] $ █     
 {The cursor will be black on a light color background or white on a black background and it will blink} 
 In the lab instructions, when you see a pound-sign “#” (aka hash mark), that indicates a comment and not part of the actual command; however, the particular comment may be telling you to enter a specific command, which would be entered immediately after the “$” (as in the sample command prompt above).  A comment can be entered on the same line as a command, after the full command and options/parameters are entered; the system will not execute anything after the “#” comment symbol.  This is useful in documenting scripts. 
-Now, the Linux commands you should research and learn to use for the labs (with comments): 
-$ su  # this will let you change from the current logged in user to a different user; 
- \# such as ‘Root’; however, you must know the other user’s password 
-  $ sudo <command>  # or a similar command option (next line) 
-$ sudo -i <command>  # these two let you issue a command with Admin rights; and 
-    # you will be prompted to enter your login password 
-$ chmod <options>  # modifies permissions to a folder/directory or file 
-$ chown <options>  # changes ownership of a folder/directory or file 
-$ ifconfig <options>  # lists the local network adapters and their settings; the most 
-    # common option is ‘-a’ (for “all”) 
-$ ls    # lists the files/folders within the current directory/folder 
-    # the first character is lower-case “L” not the number one 
+Now, the Linux commands you should research and learn to use for the labs (with comments):  
+$ su  # this will let you change from the current logged in user to a different user; such as ‘Root’; however, you must know the other user’s password 
+$ sudo <command>  # or a similar command option (next line)   
+$ sudo -i <command>  # these two let you issue a command with Admin rights; and you will be prompted to enter your login password   
+$ chmod <options>  # modifies permissions to a folder/directory or file   
+$ chown <options>  # changes ownership of a folder/directory or file   
+$ ifconfig <options>  # lists the local network adapters and their settings; the most common option is ‘-a’ (for “all”)   
+$ ls    # lists the files/folders within the current directory/folder the first character is lower-case “L” not the number one  
 As other common commands are developed for the various lab assignments, they will be added to the section above. 
 
+## Network Security Monitoring & Intrusion Detection System Tools <a name="nsm"></a>
+
+[Security Onion](https://securityonion.net)
+[Bro IDS](https://www.bro.org)
+[Sguil: The Analyst Console for Network Security Monitoring](http://bammv.github.io/sguil/index.html)
+[Snorby](https://github.com/Snorby/snorby)
+[SOF-ELK® VM Distribution](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)
+[Rock NSM](http://rocknsm.io)
+[Suricata IDS/NSM engine](https://suricata-ids.org)
+[Wireshark](https://www.wireshark.org)
 
 
 
