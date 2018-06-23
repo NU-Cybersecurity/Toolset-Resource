@@ -42,7 +42,7 @@ As a supplemental resource to the NU-ISLE environment and other commercial CSIA 
 
 [Fedora Linux](https://www.virtualbox.org/ )
 
-###F edora Documentation
+### Fedora Documentation
 
 [Fedora Docs Page](https://docs-old.fedoraproject.org/en-US/index.html)
 [Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
@@ -73,18 +73,18 @@ As other common commands are developed for the various lab assignments, they wil
 
 ## Network Security Monitoring & Intrusion Detection System Tools <a name="nsm"></a>
 
-[Security Onion](https://securityonion.net)
-[Bro IDS](https://www.bro.org)
-[Sguil: The Analyst Console for Network Security Monitoring](http://bammv.github.io/sguil/index.html)
-[Snorby](https://github.com/Snorby/snorby)
-[SOF-ELK® VM Distribution](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)
-[Rock NSM](http://rocknsm.io)
-[Suricata IDS/NSM engine](https://suricata-ids.org)
-[Wireshark](https://www.wireshark.org)
-[Network Miner](http://www.netresec.com/?page=NetworkMiner)
-[CapLoader](http://www.netresec.com/?page=CapLoader)
-[SplitCap](http://www.netresec.com/?page=SplitCap)
-[How to: Split large packet captures with tcpdump](http://www.sysadminx.com/2013/01/25/how-to-split-large-packet-captures-with-tcpdump/)
+[Security Onion](https://securityonion.net)  
+[Bro IDS](https://www.bro.org)  
+[Sguil: The Analyst Console for Network Security Monitoring](http://bammv.github.io/sguil/index.html)  
+[Snorby](https://github.com/Snorby/snorby)  
+[SOF-ELK® VM Distribution](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)  
+[Rock NSM](http://rocknsm.io)  
+[Suricata IDS/NSM engine](https://suricata-ids.org)  
+[Wireshark](https://www.wireshark.org)  
+[Network Miner](http://www.netresec.com/?page=NetworkMiner)  
+[CapLoader](http://www.netresec.com/?page=CapLoader)  
+[SplitCap](http://www.netresec.com/?page=SplitCap)  
+[How to: Split large packet captures with tcpdump](http://www.sysadminx.com/2013/01/25/how-to-split-large-packet-captures-with-tcpdump/)  
 
 ### EBooks available in the NU Library (Login required)
 
