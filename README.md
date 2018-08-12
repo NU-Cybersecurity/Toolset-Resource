@@ -140,7 +140,7 @@ As other common commands are developed for the various lab assignments, they wil
 [Cloud Security Alliance](https://cloudsecurityalliance.org)  
 [ENISA Cloud Security Guidance](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security)  
 
-## Writing and Reporting ##
+## Writing and Reporting <a name="writing"></a>
 [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/06/reintroducing-the-cybersecurity-style-guide-v1-1/)
 
 
