@@ -3,6 +3,7 @@
 
 
 [Introduction](#intro)  
+[Lab Environments](#labs)  
 [Free Virtual Environments](#virtual)  
 [Linux Operating Systems](#Linux)  
 [Network Security Monitoring & Intrusion Detection System Tools](#nsm)  
@@ -16,37 +17,46 @@
 ## Introduction <a name="intro"></a>
 This is a curated list of tools and tips for students in the National University MS and BS Cybersecurity Programs.
 
-## Lab Environments
+## Lab Environments <a name="labs"></a>
 
 [Infosec Learning Labs](https://www.infoseclearning.com/index.aspx)  
-[NICE Challenge](https://www.nice-challenge.com/)  
+[NICE Challenges](https://www.nice-challenge.com/)  
 [National Cyber League](https://www.nationalcyberleague.org/)  
-[Project Ares](https://edu-apprentice1.ares.circadence.com/)  
+[Project Ares (by Circadence)](https://edu-apprentice1.ares.circadence.com/)  
+[ITPro.tv](https://itpro.tv/)  
 
 
 ## Free Virtual Environments <a name="virtual"></a>
 
-As a supplemental resource to the NU-ISLE environment and other commercial CSIA labs that will be used for most courses, the following VM tools may be used, which allows local system setup and configuration for students to practice with toolsets.  NOTE – most CSIA course assignments require the use of the either the NU-ISLE environment, where instructors have access to login and check the student’s work on a particular VM, or a hosted lab environment, where student activity is reported to the instructor; therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools.
+As a supplemental resource to the commercial CSIA labs that will be used for most courses, the following VM tools may be used, which allows local system setup and configuration for students to practice with toolsets.  NOTE – most CSIA course assignments require the use of a hosted lab environment, where student activity is reported to the instructor; therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools.
 
-[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html)
-[Oracle Virtual Box](https://www.virtualbox.org/ )
+[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html) - also available through the NU SSO Portal using the VMWare chiclet/link  
+[Oracle Virtual Box](https://www.virtualbox.org/)  
+
+In addition, students have access to free and low cost software through the NU SSO Portal, using the "VMware" chiclet or the "Microsoft Imagine" chiclet. On the VMware site, you can obtain WMware Workstation (current full version) for Windows or VMware Fusion for Mac-OS, to install a hosted VM platform; as well as vCenter Server (bare-metal VM platform) and vSphere (web-based workstation/client).  
 
 
 ## Linux Operating Systems <a name="Linux"></a>
 
-[Ubuntu](http://www.ubuntu.com/) 
+[Debian Linux](https://www.debian.org/distrib/) 
+[Fedora Linux Workstation](https://getfedora.org/en/workstation/download/) 
+[Fedora Linux Server](https://getfedora.org/en/server/download/) 
+[Ubuntu Linux](http://www.ubuntu.com/) 
 
-### Ubuntu Documentation
+### Debian Documentation
 
-[Ubuntu Help](https://help.ubuntu.com/)
-[Ubuntu Wiki](https://wiki.ubuntu.com/)
-
-[Fedora Linux](https://www.virtualbox.org/ )
+[Debian Documentation](https://www.debian.org/doc/) 
+[Debian User Forums](http://forums.debian.net/) - Caution: you may get an "insecure website" warning. 
 
 ### Fedora Documentation
 
 [Fedora Docs Page](https://docs-old.fedoraproject.org/en-US/index.html)
 [Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
+
+### Ubuntu Documentation
+
+[Ubuntu Help](https://help.ubuntu.com/)
+[Ubuntu Community Wiki](https://wiki.ubuntu.com/)
 
 ### Command Line Tips and References
 
@@ -71,6 +81,7 @@ $ chown <options>  # changes ownership of a folder/directory or file
 $ ifconfig <options>  # lists the local network adapters and their settings; the most common option is ‘-a’ (for “all”)   
 $ ls    # lists the files/folders within the current directory/folder the first character is lower-case “L” not the number one  
 As other common commands are developed for the various lab assignments, they will be added to the section above. 
+
 
 ## Network Security Monitoring & Intrusion Detection System Tools <a name="nsm"></a>
 
@@ -105,6 +116,7 @@ As other common commands are developed for the various lab assignments, they wil
 [OpenVAS](http://www.openvas.org)  
 [Angry IP Scanner](https://angryip.org)  
  
+ 
 ## Vulnerability Assessment and Penetration Testing Tools <a name="pen"></a>
 
 [Kali Linux](https://www.kali.org)  
@@ -134,11 +146,14 @@ As other common commands are developed for the various lab assignments, they wil
 
 [Threat Modeling Tool Principles](https://www.youtube.com/watch?v=wUt8gVxmO-0)  
 
+[Creating a Threat Model Using TMT-2016 Intermediate Level - NU Lecture](https://youtu.be/-VokDIHS5XM)
+
 
 ## Cloud Security References and Resources <a name="cloud"></a>
 
 [Cloud Security Alliance](https://cloudsecurityalliance.org)  
 [ENISA Cloud Security Guidance](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security)  
+
 
 ## Writing and Reporting <a name="writing"></a>
 [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/06/reintroducing-the-cybersecurity-style-guide-v1-1/)
