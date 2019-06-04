@@ -39,24 +39,30 @@ In addition, students have access to free and low cost software through the NU S
 ## Linux Operating Systems <a name="Linux"></a>
 
 [Debian Linux](https://www.debian.org/distrib/) 
+ 
 [Fedora Linux Workstation](https://getfedora.org/en/workstation/download/) 
+ 
 [Fedora Linux Server](https://getfedora.org/en/server/download/) 
+ 
 [Ubuntu Linux](http://www.ubuntu.com/) 
 
 ### Debian Documentation
 
 [Debian Documentation](https://www.debian.org/doc/) 
+ 
 [Debian User Forums](http://forums.debian.net/) - Caution: you may get an "insecure website" warning. 
 
 ### Fedora Documentation
 
-[Fedora Docs Page](https://docs-old.fedoraproject.org/en-US/index.html)
-[Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
+[Fedora Docs Page](https://docs-old.fedoraproject.org/en-US/index.html) 
+ 
+[Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki) 
 
 ### Ubuntu Documentation
 
-[Ubuntu Help](https://help.ubuntu.com/)
-[Ubuntu Community Wiki](https://wiki.ubuntu.com/)
+[Ubuntu Help](https://help.ubuntu.com/) 
+ 
+[Ubuntu Community Wiki](https://wiki.ubuntu.com/) 
 
 ### Command Line Tips and References
 
