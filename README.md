@@ -8,7 +8,7 @@
 [Linux Operating Systems](#Linux)  
 [Network Security Monitoring & Intrusion Detection System Tools](#nsm)  
 [Network Mapping, Discovery, & Assessment Tools](#nmap)   
-[Reconaissance](#recon)
+[Reconaissance](#recon)      
 [Vulnerability Assessment and Penetration Testing Tools](#pen)  
 [Threat Modeling Tools & Resources](#threat)  
 [Cloud Security References and Resources](#cloud)  
@@ -130,7 +130,9 @@ As other common commands are developed for the various lab assignments, they wil
 [Using Shodan](https://danielmiessler.com/study/shodan/)    
 [Censys](https://censys.io/)     
 
-### Videos
+### Videos     
+[First Google Hacking Talk by Johnny Log](https://www.youtube.com/watch?v=Lr2oECRgTqM)      
+[Shodan Search Engine for Hackers](https://www.youtube.com/watch?v=d7x-Bn_bqt0)      
 
 ## Vulnerability Assessment and Penetration Testing Tools <a name="pen"></a>
 
@@ -177,7 +179,7 @@ As other common commands are developed for the various lab assignments, they wil
 [Learn Cryptography](http://https://learncryptography.com/encryption)   
 [Cipher Tools](http://rumkin.com/tools/cipher/)   
 [Khan Academy - Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)   
-## Onlie Crypto Challenges   
+### Onlie Crypto Challenges   
 [The Cryptopals crypto challenges](https://cryptopals.com/)   
 [NSA Crypto Challenge Puzzle of the Week](http://cryptochallenge.io/)   
 [Khan Academy Crypto Challenge](https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction)   
