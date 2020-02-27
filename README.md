@@ -24,8 +24,8 @@ This is a curated list of tools and tips for students in the National University
 [Infosec Learning Labs](https://www.infoseclearning.com/index.aspx)  
 [NICE Challenges](https://www.nice-challenge.com/)  
 [National Cyber League](https://www.nationalcyberleague.org/)  
-[Project Ares (by Circadence)](https://edu-apprentice1.ares.circadence.com/)  
 [ITPro.tv](https://itpro.tv/)  
+[Immersive Labs](https://dca.immersivelabs.online/)
 
 
 ## Free Virtual Environments <a name="virtual"></a>
