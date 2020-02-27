@@ -162,19 +162,19 @@ As other common commands are developed for the various lab assignments, they wil
 [ENISA Cloud Security Guidance](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security)  
 
 
-## Writing and Reporting <a name="writing"></a>
+## Writing and Reporting <a name="writing"></a>    
 [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/06/reintroducing-the-cybersecurity-style-guide-v1-1/)
 
-## Cryptography <a name="crypto"></a>
-[Learn Cryptography](http://https://learncryptography.com/encryption)
-[Cipher Tools](http://rumkin.com/tools/cipher/)
-[Khan Academy - Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-## Onlie Crypto Challenges
-[The Cryptopals crypto challenges](https://cryptopals.com/)
-[NSA Crypto Challenge Puzzle of the Week](http://cryptochallenge.io/)
-[Khan Academy Crypto Challenge](https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction)
-[Crypto CTFs](https://ctfs.github.io/resources/)
-[Net Force Crypto Challenges](https://www.net-force.nl/challenges/)
+## Cryptography <a name="crypto"></a>   
+[Learn Cryptography](http://https://learncryptography.com/encryption)   
+[Cipher Tools](http://rumkin.com/tools/cipher/)   
+[Khan Academy - Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)   
+## Onlie Crypto Challenges   
+[The Cryptopals crypto challenges](https://cryptopals.com/)   
+[NSA Crypto Challenge Puzzle of the Week](http://cryptochallenge.io/)   
+[Khan Academy Crypto Challenge](https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction)   
+[Crypto CTFs](https://ctfs.github.io/resources/)   
+[Net Force Crypto Challenges](https://www.net-force.nl/challenges/)   
 
 
 
