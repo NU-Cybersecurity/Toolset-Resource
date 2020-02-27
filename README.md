@@ -7,7 +7,8 @@
 [Free Virtual Environments](#virtual)  
 [Linux Operating Systems](#Linux)  
 [Network Security Monitoring & Intrusion Detection System Tools](#nsm)  
-[Network Mapping, Discovery, & Assessment Tools](#nmap)
+[Network Mapping, Discovery, & Assessment Tools](#nmap)   
+[Reconaissance](#recon)
 [Vulnerability Assessment and Penetration Testing Tools](#pen)  
 [Threat Modeling Tools & Resources](#threat)  
 [Cloud Security References and Resources](#cloud)  
@@ -123,7 +124,14 @@ As other common commands are developed for the various lab assignments, they wil
 [OpenVAS](http://www.openvas.org)  
 [Angry IP Scanner](https://angryip.org)  
  
- 
+## Recon <a name="recon"></a>    
+[Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)   
+[Shodan](https://www.shodan.io/)    
+[Using Shodan](https://danielmiessler.com/study/shodan/)    
+[Censys](https://censys.io/)     
+
+### Videos
+
 ## Vulnerability Assessment and Penetration Testing Tools <a name="pen"></a>
 
 [Kali Linux](https://www.kali.org)  
