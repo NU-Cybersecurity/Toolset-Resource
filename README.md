@@ -11,8 +11,8 @@
 [Vulnerability Assessment and Penetration Testing Tools](#pen)  
 [Threat Modeling Tools & Resources](#threat)  
 [Cloud Security References and Resources](#cloud)  
-[Writing and Reports](#writing)
-[Cryptography](#crypto)
+[Writing and Reports](#writing)    
+[Cryptography](#crypto)    
 
 
 ## Introduction <a name="intro"></a>
