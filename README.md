@@ -22,20 +22,21 @@ This is a curated list of tools and tips for students in the National University
 ## Lab Environments <a name="labs"></a>
 
 [Infosec Learning Labs](https://www.infoseclearning.com/index.aspx)  
-[NICE Challenges](https://www.nice-challenge.com/)  
+[NICE Challenges](https://portal.nice-challenge.com/)  
 [National Cyber League](https://www.nationalcyberleague.org/)  
 [ITPro.tv](https://itpro.tv/)  
 [Immersive Labs](https://dca.immersivelabs.online/)
+[TryHackMe](https://tryhackme.com/paths)
 
 
 ## Free Virtual Environments <a name="virtual"></a>
 
 As a supplemental resource to the commercial CSIA labs that will be used for most courses, the following VM tools may be used, which allows local system setup and configuration for students to practice with toolsets.  NOTE – most CSIA course assignments require the use of a hosted lab environment, where student activity is reported to the instructor; therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools.
 
-[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html) - also available through the NU SSO Portal using the VMWare chiclet/link  
+[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html) 
 [Oracle Virtual Box](https://www.virtualbox.org/)  
 
-In addition, students have access to free and low cost software through the NU SSO Portal, using the "VMware" chiclet or the "Microsoft Imagine" chiclet. On the VMware site, you can obtain WMware Workstation (current full version) for Windows or VMware Fusion for Mac-OS, to install a hosted VM platform; as well as vCenter Server (bare-metal VM platform) and vSphere (web-based workstation/client).  
+In addition, students have access to free and low cost software through the NU SSO Portal, after sending a request to their Instructor or the NU IT Help Desk. 
 
 
 ## Linux Operating Systems <a name="Linux"></a>
@@ -74,27 +75,37 @@ In addition, students have access to free and low cost software through the NU S
 
 ### Using the Terminal
 There are some Linux commands you should learn and become familiar with, but first, some background and syntax used in many lab assignments: 
-When you open a Terminal (text prompt) session in Linux, you will see something similar to 
-the following command prompt, which indicates logged-in user, the system name, and the 
+When you open a Terminal (text prompt) session in Linux, you will see something similar to the following command prompt, which indicates logged-in user, the system name, and the 
 current directory (in this case, “~” indicates the student’s Home directory): 
+
  [student@fedora ~] $ █     
+
 {The cursor will be black on a light color background or white on a black background and it will blink} 
 In the lab instructions, when you see a pound-sign “#” (aka hash mark), that indicates a comment and not part of the actual command; however, the particular comment may be telling you to enter a specific command, which would be entered immediately after the “$” (as in the sample command prompt above).  A comment can be entered on the same line as a command, after the full command and options/parameters are entered; the system will not execute anything after the “#” comment symbol.  This is useful in documenting scripts. 
-Now, the Linux commands you should research and learn to use for the labs (with comments):  
+
+Now, the Linux commands you should research and learn to use for the labs (with comments): 
+
 $ su  # this will let you change from the current logged in user to a different user; such as ‘Root’; however, you must know the other user’s password 
+
 $ sudo <command>  # or a similar command option (next line)   
+
 $ sudo -i <command>  # these two let you issue a command with Admin rights; and you will be prompted to enter your login password   
+
 $ chmod <options>  # modifies permissions to a folder/directory or file   
+
 $ chown <options>  # changes ownership of a folder/directory or file   
+
 $ ifconfig <options>  # lists the local network adapters and their settings; the most common option is ‘-a’ (for “all”)   
+
 $ ls    # lists the files/folders within the current directory/folder the first character is lower-case “L” not the number one  
+
 As other common commands are developed for the various lab assignments, they will be added to the section above. 
 
 
 ## Network Security Monitoring & Intrusion Detection System Tools <a name="nsm"></a>
 
 [Security Onion](https://securityonion.net)  
-[Bro IDS](https://www.bro.org)  
+[Zeek NSM](https://zeek.org)  
 [Sguil: The Analyst Console for Network Security Monitoring](http://bammv.github.io/sguil/index.html)  
 [Snorby](https://github.com/Snorby/snorby)  
 [SOF-ELK® VM Distribution](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)  
